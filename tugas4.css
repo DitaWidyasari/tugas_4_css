@@ -1,0 +1,9 @@
+[name="button"]{
+  font-size: 30px;
+  color: blue ;
+}
+
+[type="button"]{
+  font-size: 30px;
+  color: orange !important;
+}
